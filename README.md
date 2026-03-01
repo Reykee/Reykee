@@ -65,9 +65,10 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 ---
 
 ## 🎯 Current Focus
-- 🚀 Building **Oddsgram** & **Sportsgram**
-- 💳 Fintech & betting system integrations
+- 🚀 Building **Planova** , **FXQuantis** , **Oddsgram** ,**KuzaPesa** & **BizMind**
+- 💳 Fintech,betting system integrations,Forex,and Global finacial & business platforms 
 - 📱 High-performance mobile apps
+- 🌐 High peformance Web sites
 - ⚙️ Scalable backend services
 
 ---
@@ -78,4 +79,4 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 
 ---
 
-⭐️ *Consistency beats motivation.*
+⭐️*GOD,Consistency, and Motivative mindsite .*
