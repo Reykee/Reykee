@@ -73,8 +73,8 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Reykee&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Reykee&theme=tokyonight)
 
 ---
 
