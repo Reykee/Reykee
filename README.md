@@ -84,8 +84,7 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 ## 🟢 Oddsgram
 
 <p align="center">
-  <img src="Imgury
-http://i.imgur.com/cbicPEa.png
+  <img src="http://i.imgur.com/cbicPEa.png
  From #Imgury" width="120"/>
 </p>
 
