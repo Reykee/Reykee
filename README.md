@@ -1,6 +1,6 @@
 <!-- PREMIUM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=REYKEE&fontSize=50&fontColor=00ffcc&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,50:0a0a0a,100:0f2027&height=200&section=header&text=REYKEE&fontSize=50&fontColor=00FFC6&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- TYPING INTRO -->
