@@ -78,7 +78,7 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 ![Streak](https://streak-stats.demolab.com?user=Reykee&theme=tokyonight)
 
 ---
-##![](https://github-readme-stats.vercel.app/api?username=Reykee&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Reykee&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Reykee&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reykee&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
