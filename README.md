@@ -1,3 +1,18 @@
+<!-- PREMIUM HEADER -->
+<h1 align="center">⚫ Reykee ⚫</h1>
+<p align="center">
+  <i>Mobile • Web • Systems Developer</i><br/>
+  <b>Building Scalable Digital Products with Precision & Style</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-black?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mode-Building%20Relentlessly-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vibe-Premium%20Execution-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
 ## 👋 Hi there!
 
 I’m **Reykee**, originally known as **Reginald Kilawe** — a passionate **Mobile & Web Developer** focused on building real-world, scalable digital products.
@@ -10,57 +25,88 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 
 ## 🌍 Socials & Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Regnaldkilawe)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Regnaldkilawe)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:reggykilawe@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/its_reykee)
+<p align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Regnaldkilawe)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Regnaldkilawe)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:reggykilawe@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/its_reykee)
+
+</p>
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
-### 👨‍💻 Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+## 👨‍💻 Languages
+<p>
+<img src="https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart&logoColor=00B4AB"/>
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=512BD4"/>
 
----
-
-### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+<!-- ADDED -->
+<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-### 🛠 Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Django REST](https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+## 📱 Mobile & Frontend
+<p>
+<img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=02569B"/>
+<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+<img src="https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+
+<!-- ADDED -->
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
 
 ---
 
-### 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
+## 🛠 Backend & APIs
+<p>
+<img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=092E20"/>
+<img src="https://img.shields.io/badge/Django_REST-0A0A0A?style=for-the-badge&logo=django&logoColor=FF1709"/>
+<img src="https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+<img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+
+<!-- ADDED -->
+<img src="https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+</p>
 
 ---
 
-### ⚙️ Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+## 🗄 Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/SQLite-0A0A0A?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
+<img src="https://img.shields.io/badge/MariaDB-0A0A0A?style=for-the-badge&logo=mariadb&logoColor=003545"/>
+</p>
+
+---
+
+## ⚙️ Tools & Design
+<p>
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-0A0A0A?style=for-the-badge&logo=apache&logoColor=D22128"/>
+<img src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+
+<!-- ADDED -->
+<img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+</p>
 
 ---
 
@@ -73,23 +119,19 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Reykee&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=Reykee&theme=tokyonight)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reykee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+  <img src="https://streak-stats.demolab.com?user=Reykee&theme=tokyonight&hide_border=true&background=000000"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reykee&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
+</p>
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=Reykee&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Reykee&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Reykee&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Reykee&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Reykee&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=Reykee&icon=7&color=13)](https://visitcount.itsvg.in)
-
-⭐️*GOD,Consistency, and Motivative mindsite .*
+<p align="center">
+  <b>⚫ GOD • Consistency • Motivated Mindset ⚫</b>
+</p>
