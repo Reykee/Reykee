@@ -91,24 +91,17 @@ I believe in learning by building. That mindset keeps me shipping products, impr
   Smart betting analysis platform delivering accurate insights, predictions, and performance tracking.
 </p>
 
-<!-- WEBSITE (center) -->
 <p align="center">
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
   </a>
-</p>
-
-<!-- PLAYSTORE (left style stays natural) -->
-<p>
+  
   <a href="https://play.google.com/store/apps/details?id=your.app.id">
     <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
   </a>
-</p>
-
-<!-- APPSTORE (left style stays natural) -->
-<p>
+  
   <a href="https://apps.apple.com/app/idXXXXXXXXX">
-    <img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
   </a>
 </p>
 
