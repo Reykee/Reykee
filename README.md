@@ -132,6 +132,7 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 
 ---
 ## 🟢 Planova
+
 <p align="center">
   <img src="http://i.imgur.com/R6ARQri.png" width="120"/>
 </p>
@@ -141,20 +142,19 @@ Smart planning and productivity platform helping users organize tasks, track pro
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
   </a>
   
-  <a href="#">
+  <a href="https://play.google.com/store/apps/details?id=your.app.id">
     <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
   </a>
   
-  <a href="#">
+  <a href="https://apps.apple.com/tz/app/planova/id6759555358">
     <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
   </a>
 </p>
 ---
-
 ## 🟢 Kuza Pesa
 
 <p align="center">
