@@ -1,3 +1,20 @@
+<!-- PREMIUM BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=REYKEE&fontSize=50&fontColor=00ffcc&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFC6&size=24&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Developer;Building+Scalable+Systems;Fintech+%7C+Betting+%7C+AI+Driven+Apps;Consistency+is+Power"/>
+</p>
+
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reykee&label=Profile%20Views&color=00ffc6&style=for-the-badge"/>
+</p>
+
+---
+
 <!-- PREMIUM HEADER -->
 <h1 align="center">⚫ Reykee ⚫</h1>
 <p align="center">
