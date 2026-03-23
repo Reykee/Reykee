@@ -100,7 +100,7 @@ I believe in learning by building. That mindset keeps me shipping products, impr
     <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
   </a>
   
-  <a href="https://apps.apple.com/app/idXXXXXXXXX">
+  <a href="https://apps.apple.com/tz/app/oddsgram/id6757987570">
     <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
   </a>
 </p>
