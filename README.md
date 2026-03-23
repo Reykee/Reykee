@@ -307,5 +307,5 @@ Smart planning and productivity platform helping users organize tasks, track pro
 ---
 
 <p align="center">
-  <b>⚫ GOD • Consistency • Motivated Mindset ⚫</b>
+  <b>⚫ GOD • CONSISTENCY • MOTIVATED MINDSET ⚫</b>
 </p>
