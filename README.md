@@ -110,7 +110,7 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 ## 🟢 FXQuantis
 
 <p align="center">
-  <img src="http://i.imgur.com/cbicPEa.png" width="120"/>
+  <img src="http://i.imgur.com/kVqqmfZ.png" width="120"/>
 </p>
 
 <p align="center">
