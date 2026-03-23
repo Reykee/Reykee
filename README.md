@@ -53,6 +53,60 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 
 ---
 
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/ODDSGRAM-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/PLANOVA-000000?style=for-the-badge&logo=vercel&logoColor=00FFC6"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/FXQUANTIS-000000?style=for-the-badge&logo=chartdotjs&logoColor=00FFC6"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/KUZAPESA-000000?style=for-the-badge&logo=googlepay&logoColor=00FFC6"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/BIZMIND-000000?style=for-the-badge&logo=brain&logoColor=00FFC6"/>
+</a>
+
+</p>
+
+---
+
+## 🟢 Oddsgram
+
+<p align="center">
+  <img src="YOUR_APP_ICON_URL" width="120"/>
+</p>
+
+<p align="center">
+  Smart betting analysis platform delivering accurate insights, predictions, and performance tracking.
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+  </a>
+</p>
+
+---
+
 # 🧠 Tech Stack
 
 ## 👨‍💻 Languages
