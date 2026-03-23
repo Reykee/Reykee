@@ -106,7 +106,8 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 </p>
 
 ---
-# 🟢 FXQuantis
+
+## 🟢 FXQuantis
 
 <p align="center">
   <img src="http://i.imgur.com/kVqqmfZ.png" width="120"/>
@@ -154,7 +155,9 @@ Smart planning and productivity platform helping users organize tasks, track pro
     <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
   </a>
 </p>
+
 ---
+
 ## 🟢 Kuza Pesa
 
 <p align="center">
@@ -178,6 +181,7 @@ Smart planning and productivity platform helping users organize tasks, track pro
     <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
   </a>
 </p>
+
 ---
 
 ## 🟢 BizMind
