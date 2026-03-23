@@ -207,9 +207,10 @@ Smart planning and productivity platform helping users organize tasks, track pro
     <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
   </a>
 </p>
+
 ---
 
-# 🧠 Tech Stack
+## 🧠 Tech Stack
 
 ## 👨‍💻 Languages
 <p>
