@@ -184,7 +184,7 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 ## 🟢 BizMind
 
 <p align="center">
-  <img src="http://i.imgur.com/R6ARQri.png" width="120"/>
+  <img src="http://i.imgur.com/SQqwukm.png" width="120"/>
 </p>
 
 <p align="center">
