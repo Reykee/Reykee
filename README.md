@@ -159,8 +159,7 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 ## 🟢 Kuza Pesa
 
 <p align="center">
-  <img src="http://i.imgur.com/4NhArQE.png
- " width="120"/>
+  <img src="http://i.imgur.com/4NhArQE.png" width="120"/>
 </p>
 
 <p align="center">
