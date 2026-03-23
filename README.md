@@ -92,16 +92,23 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 </p>
 
 <p align="center">
-  <a href="#">
+  <!-- WEBSITE -->
+  <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
   </a>
   
-  <a href="#">
+  &nbsp;&nbsp;
+  
+  <!-- PLAY STORE -->
+  <a href="https://play.google.com/store/apps/details?id=your.app.id" target="_blank">
     <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
   </a>
   
-  <a href="#">
-    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+  &nbsp;&nbsp;
+  
+  <!-- APP STORE -->
+  <a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
   </a>
 </p>
 
