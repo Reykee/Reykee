@@ -108,13 +108,12 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 ---
 
 ## 🟢 FXQuantis
-
 <p align="center">
   <img src="http://i.imgur.com/kVqqmfZ.png" width="120"/>
 </p>
 
 <p align="center">
-  An AI Forex Trading betting analysis platform delivering accurate insights, predictions, and performance tracking.
+  AI-powered forex trading analysis platform delivering accurate insights, market predictions, and performance tracking.
 </p>
 
 <p align="center">
@@ -132,13 +131,12 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 </p>
 
 ## 🟢 Planova
-
 <p align="center">
   <img src="http://i.imgur.com/R6ARQri.png" width="120"/>
 </p>
 
 <p align="center">
-  Smart betting analysis platform delivering accurate insights, predictions, and performance tracking.
+Smart planning and productivity platform helping users organize tasks, track progress, and achieve goals efficiently.
 </p>
 
 <p align="center">
@@ -163,7 +161,7 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 </p>
 
 <p align="center">
-  Smart betting analysis platform delivering accurate insights, predictions, and performance tracking.
+  Financial growth platform empowering users with smart money strategies, investment insights, and income optimization tools.
 </p>
 
 <p align="center">
@@ -188,7 +186,7 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 </p>
 
 <p align="center">
-  Smart betting analysis platform delivering accurate insights, predictions, and performance tracking.
+ Business intelligence platform delivering smart insights, analytics, and decision-making tools for growth and performance.
 </p>
 
 <p align="center">
