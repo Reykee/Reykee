@@ -212,6 +212,86 @@ Smart planning and productivity platform helping users organize tasks, track pro
 
 ## 🧠 Tech Stack
 
+<div align="center">
+
+<div style="
+  width:280px;
+  height:180px;
+  overflow:hidden;
+  border-radius:18px;
+  background:linear-gradient(145deg,#020202,#0a0a0a);
+  border:1px solid rgba(0,255,198,0.15);
+  box-shadow:0 0 30px rgba(0,255,198,0.15), inset 0 0 20px rgba(255,255,255,0.02);
+  position:relative;
+">
+
+<div id="lux-track" style="display:flex; flex-direction:column;">
+
+<!-- ITEM -->
+<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/>
+  <span style="color:#00FFC6; font-weight:600;">HTML</span>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22"/>
+  <span style="color:#00FFC6; font-weight:600;">CSS</span>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/>
+  <span style="color:#00FFC6; font-weight:600;">JavaScript</span>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/>
+  <span style="color:#00FFC6; font-weight:600;">React</span>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/>
+  <span style="color:#00FFC6; font-weight:600;">Python</span>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28"/>
+  <span style="color:#00FFC6; font-weight:600;">AWS</span>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22"/>
+  <span style="color:#00FFC6; font-weight:600;">Git</span>
+</div>
+
+<!-- duplicate for loop -->
+<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/>
+  <span style="color:#00FFC6; font-weight:600;">HTML</span>
+</div>
+
+</div>
+</div>
+
+</div>
+
+<!-- animation trigger -->
+<img src="https://dummyimage.com/1x1/000/000" onload="
+let i=0;
+const track=this.previousElementSibling.querySelector('#lux-track');
+setInterval(()=>{
+  i++;
+  track.style.transition='transform 0.9s cubic-bezier(.77,0,.18,1)';
+  track.style.transform=`translateY(-${i*60}px)`;
+  if(i>6){
+    setTimeout(()=>{
+      track.style.transition='none';
+      track.style.transform='translateY(0)';
+      i=0;
+    },900);
+  }
+},2200);
+"/>
+
 ## 👨‍💻 Languages
 <p>
 <img src="https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart&logoColor=00B4AB"/>
