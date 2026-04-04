@@ -211,85 +211,70 @@ Smart planning and productivity platform helping users organize tasks, track pro
 ---
 
 ## 🧠 Tech Stack
-
 <div align="center">
 
 <div style="
-  width:280px;
-  height:180px;
-  overflow:hidden;
-  border-radius:18px;
+  width:220px;
+  height:120px;
+  border-radius:16px;
   background:linear-gradient(145deg,#020202,#0a0a0a);
   border:1px solid rgba(0,255,198,0.15);
-  box-shadow:0 0 30px rgba(0,255,198,0.15), inset 0 0 20px rgba(255,255,255,0.02);
+  box-shadow:0 0 25px rgba(0,255,198,0.15);
+  display:flex;
+  align-items:center;
+  justify-content:center;
   position:relative;
+  overflow:hidden;
 ">
 
-<div id="lux-track" style="display:flex; flex-direction:column;">
+<div id="cube-face" style="
+  display:flex;
+  align-items:center;
+  gap:10px;
+  color:#00FFC6;
+  font-weight:600;
+  font-size:16px;
+  transition:all 0.6s ease;
+">
 
-<!-- ITEM -->
-<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/>
-  <span style="color:#00FFC6; font-weight:600;">HTML</span>
-</div>
-
-<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22"/>
-  <span style="color:#00FFC6; font-weight:600;">CSS</span>
-</div>
-
-<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/>
-  <span style="color:#00FFC6; font-weight:600;">JavaScript</span>
-</div>
-
-<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/>
-  <span style="color:#00FFC6; font-weight:600;">React</span>
-</div>
-
-<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22"/>
-  <span style="color:#00FFC6; font-weight:600;">Python</span>
-</div>
-
-<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28"/>
-  <span style="color:#00FFC6; font-weight:600;">AWS</span>
-</div>
-
-<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22"/>
-  <span style="color:#00FFC6; font-weight:600;">Git</span>
-</div>
-
-<!-- duplicate for loop -->
-<div style="display:flex; align-items:center; justify-content:center; gap:10px; height:60px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/>
-  <span style="color:#00FFC6; font-weight:600;">HTML</span>
-</div>
+<img id="cube-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/>
+<span id="cube-text">HTML</span>
 
 </div>
+
 </div>
 
 </div>
 
-<!-- animation trigger -->
 <img src="https://dummyimage.com/1x1/000/000" onload="
+const tech=[
+  {name:'HTML',icon:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'},
+  {name:'CSS',icon:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'},
+  {name:'JavaScript',icon:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'},
+  {name:'React',icon:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'},
+  {name:'Python',icon:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'},
+  {name:'React Native',icon:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'}
+];
+
 let i=0;
-const track=this.previousElementSibling.querySelector('#lux-track');
+const text=document.getElementById('cube-text');
+const icon=document.getElementById('cube-icon');
+const face=document.getElementById('cube-face');
+
 setInterval(()=>{
-  i++;
-  track.style.transition='transform 0.9s cubic-bezier(.77,0,.18,1)';
-  track.style.transform=`translateY(-${i*60}px)`;
-  if(i>6){
-    setTimeout(()=>{
-      track.style.transition='none';
-      track.style.transform='translateY(0)';
-      i=0;
-    },900);
-  }
-},2200);
+  face.style.transform='rotateX(90deg)';
+  face.style.opacity='0';
+
+  setTimeout(()=>{
+    i=(i+1)%tech.length;
+    text.innerText=tech[i].name;
+    icon.src=tech[i].icon;
+
+    face.style.transform='rotateX(0deg)';
+    face.style.opacity='1';
+  },300);
+
+},2000);
 "/>
 
 ## 👨‍💻 Languages
