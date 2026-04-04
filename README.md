@@ -209,6 +209,43 @@ Smart planning and productivity platform helping users organize tasks, track pro
 </p>
 
 ---
+<div style="height: 200px; overflow: hidden; border-radius: 10px; border: 1px solid #222; background: #0d1117; padding: 10px;">
+  <div style="
+    display: flex;
+    flex-direction: column;
+    animation: scrollUp 10s linear infinite;
+  ">
+    
+    <p style="color:#58a6ff;">💻 HTML</p>
+    <p style="color:#f78166;">🎨 CSS</p>
+    <p style="color:#f7df1e;">⚡ JavaScript</p>
+    <p style="color:#61dafb;">⚛️ React</p>
+    <p style="color:#3572A5;">🐍 Python</p>
+    <p style="color:#b07219;">☕ Java</p>
+    <p style="color:#8892bf;">🔐 Cybersecurity</p>
+    <p style="color:#dea584;">⚙️ C</p>
+    <p style="color:#f34b7d;">🚀 C++</p>
+    <p style="color:#ff9900;">☁️ AWS</p>
+    <p style="color:#8e44ad;">🤖 AI / ML</p>
+    <p style="color:#f1502f;">🔧 Git</p>
+    <p style="color:#336791;">🗄️ SQL</p>
+
+    <!-- duplicate for smooth loop -->
+    <p style="color:#58a6ff;">💻 HTML</p>
+    <p style="color:#f78166;">🎨 CSS</p>
+    <p style="color:#f7df1e;">⚡ JavaScript</p>
+    <p style="color:#61dafb;">⚛️ React</p>
+    <p style="color:#3572A5;">🐍 Python</p>
+
+  </div>
+</div>
+
+<style>
+@keyframes scrollUp {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-50%); }
+}
+</style>
 
 ## 🧠 Tech Stack
 
