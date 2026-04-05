@@ -42,29 +42,6 @@
 </p>
 
 ---
-<!-- INTRO WITH BACKGROUND -->
-<table width="100%">
-<tr>
-<td align="center" style="background-image"http://i.imgur.com/pfKeuoz.gif"
-  background-size: cover; background-position: center; padding: 40px; border-radius: 10px;">
-
-<h2>👋 Hi there!</h2>
-
-<p>
-I’m <b>Reykee</b>, originally known as <b>Reginald Kilawe</b> — a passionate <b>Mobile & Web Developer</b> focused on building real-world, scalable digital products.
-</p>
-
-<p>
-My journey into tech has been driven by curiosity, consistency, and a strong desire to turn ideas into working systems. I actively build across <b>fintech, betting platforms, mobile apps, and web systems</b>, always prioritizing clean architecture, performance, and user experience.
-</p>
-
-<p>
-I believe in learning by building. That mindset keeps me shipping products, improving my skills, and refining how I design and scale software.
-</p>
-
-</td>
-</tr>
-</table>
 
 ## 👋 Hi there!
 
