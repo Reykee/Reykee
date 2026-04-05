@@ -21,7 +21,57 @@
 ---
 
 <!-- PREMIUM HEADER -->
-<h1 align="center">⚫ Reykee ⚫</h1>
+<!-- PREMIUM NAME WITH BACKGROUND + SCREWS -->
+<p align="center">
+
+  <div style="
+    background-image: url('http://i.imgur.com/4JrtETI.gif');
+    background-size: cover;
+    background-position: center;
+    padding: 25px 0;
+    border-radius: 12px;
+    display: inline-block;
+    width: 80%;
+  ">
+
+    <h1 style="
+      color: white;
+      font-size: 32px;
+      letter-spacing: 2px;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+    ">
+      
+      <!-- LEFT SCREW -->
+      <span style="
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        background: radial-gradient(circle at 30% 30%, #888, #111);
+        box-shadow: inset 0 0 3px #000, 0 0 5px #000;
+        display: inline-block;
+      "></span>
+
+      REYKEE
+
+      <!-- RIGHT SCREW -->
+      <span style="
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        background: radial-gradient(circle at 30% 30%, #888, #111);
+        box-shadow: inset 0 0 3px #000, 0 0 5px #000;
+        display: inline-block;
+      "></span>
+
+    </h1>
+
+  </div>
+
+</p>
 <p align="center">
   <i>Mobile • Web • Systems Developer</i><br/>
   <b>Building Scalable Digital Products with Precision & Style</b>
