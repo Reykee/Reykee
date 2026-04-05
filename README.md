@@ -21,26 +21,14 @@
 ---
 
 <!-- PREMIUM HEADER -->
-<!-- FAKE OVERLAY BANNER -->
+<!-- PREMIUM NAME WITH NAME GIF -->
 <p align="center">
 
-  <!-- BACKGROUND GIF -->
-  <img src="http://i.imgur.com/4JrtETI.gif" width="80%" />
+  <!-- GIF -->
+  <img src="http://i.imgur.com/bht1MXZ.gif" width="100%" style="border-radius:12px;" />
 
-</p>
-
-<p align="center" style="margin-top:-90px;">
-
-  <!-- NAME ON TOP (FAKE OVERLAY) -->
-  <b style="
-    font-size:32px;
-    color:white;
-    letter-spacing:2px;
-    text-shadow: 0 0 10px rgba(0,255,198,0.8);
-  ">
-⬤ REYKEE ⬤
   </b>
-
+  
 </p>
 <p align="center">
   <i>Mobile • Web • Systems Developer</i><br/>
