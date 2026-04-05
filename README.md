@@ -322,3 +322,8 @@ Smart planning and productivity platform helping users organize tasks, track pro
 <p align="center">
   <b>⚫ GOD • CONSISTENCY • MOTIVATED MINDSET ⚫</b>
 </p>
+
+<!-- MINDSET VISUAL -->
+<p align="center">
+  <img src="http://i.imgur.com/pfKeuoz.gif" width="120%" />
+</p>
