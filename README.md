@@ -34,7 +34,7 @@
     width: 80%;
   ">
 
-    <h1 style="
+  <h1 style="
       color: white;
       font-size: 32px;
       letter-spacing: 2px;
@@ -43,9 +43,8 @@
       align-items: center;
       justify-content: center;
       gap: 15px;
-    ">
-      
-      <!-- LEFT SCREW -->
+    "> 
+  <!-- LEFT SCREW -->
       <span style="
         width: 18px;
         height: 18px;
@@ -54,9 +53,7 @@
         box-shadow: inset 0 0 3px #000, 0 0 5px #000;
         display: inline-block;
       "></span>
-
-      REYKEE
-
+     REYKEE
       <!-- RIGHT SCREW -->
       <span style="
         width: 18px;
@@ -66,7 +63,6 @@
         box-shadow: inset 0 0 3px #000, 0 0 5px #000;
         display: inline-block;
       "></span>
-
     </h1>
 
   </div>
