@@ -25,7 +25,7 @@
 <p align="center">
 
   <!-- BACKGROUND GIF -->
-  <img src="http://i.imgur.com/4JrtETI.gif" width="80%" style="border-radius:12px;" />
+  <img src="http://i.imgur.com/4JrtETI.gif" width="100%" style="border-radius:12px;" />
 
   <!-- TITLE OVERLAY (FAKE LAYER) -->
   <br/>
