@@ -45,7 +45,8 @@
 <!-- INTRO WITH BACKGROUND -->
 <table width="100%">
 <tr>
-<td align="center" style="background-image:'http://i.imgur.com/pfKeuoz.gif'; background-size: cover; background-position: center; padding: 40px; border-radius: 10px;">
+<td align="center" style="background-image"http://i.imgur.com/pfKeuoz.gif"
+  background-size: cover; background-position: center; padding: 40px; border-radius: 10px;">
 
 <h2>👋 Hi there!</h2>
 
