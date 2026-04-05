@@ -1,3 +1,8 @@
+<!-- ROTATING EARTH (TOP HERO) -->
+<p align="center">
+  <img src="http://i.imgur.com/QvIGoPG.gif" width="100%" />
+</p>
+
 <!-- PREMIUM BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,50:0a0a0a,100:0f2027&height=200&section=header&text=REYKEE&fontSize=50&fontColor=00FFC6&animation=fadeIn&fontAlignY=35"/>
