@@ -21,51 +21,18 @@
 ---
 
 <!-- PREMIUM HEADER -->
-<!-- PREMIUM NAME WITH BACKGROUND + SCREWS -->
+<!-- PREMIUM NAME WITH BACKGROUND (GITHUB SAFE) -->
 <p align="center">
 
-  <div style="
-    background-image:"http://i.imgur.com/4JrtETI.gif"
-    background-size: cover;
-    background-position: center;
-    padding: 25px 0;
-    border-radius: 12px;
-    display: inline-block;
-    width: 80%;
-  ">
+  <!-- BACKGROUND GIF -->
+  <img src="http://i.imgur.com/4JrtETI.gif" width="80%" style="border-radius:12px;" />
 
-  <h1 style="
-      color: white;
-      font-size: 32px;
-      letter-spacing: 2px;
-      margin: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 15px;
-    "> 
-  <!-- LEFT SCREW -->
-      <span style="
-        width: 18px;
-        height: 18px;
-        border-radius: 50%;
-        background: radial-gradient(circle at 30% 30%, #888, #111);
-        box-shadow: inset 0 0 3px #000, 0 0 5px #000;
-        display: inline-block;
-      "></span>
-     REYKEE
-      <!-- RIGHT SCREW -->
-      <span style="
-        width: 18px;
-        height: 18px;
-        border-radius: 50%;
-        background: radial-gradient(circle at 30% 30%, #888, #111);
-        box-shadow: inset 0 0 3px #000, 0 0 5px #000;
-        display: inline-block;
-      "></span>
-    </h1>
+  <!-- TITLE OVERLAY (FAKE LAYER) -->
+  <br/>
 
-  </div>
+  <b style="font-size:32px; letter-spacing:2px;">
+    ⚙️ REYKEE ⚙️
+  </b>
 
 </p>
 <p align="center">
