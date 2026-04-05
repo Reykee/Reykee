@@ -21,17 +21,24 @@
 ---
 
 <!-- PREMIUM HEADER -->
-<!-- PREMIUM NAME WITH BACKGROUND (GITHUB SAFE) -->
+<!-- FAKE OVERLAY BANNER -->
 <p align="center">
 
   <!-- BACKGROUND GIF -->
-  <img src="http://i.imgur.com/4JrtETI.gif" width="100%" style="border-radius:12px;" />
+  <img src="http://i.imgur.com/4JrtETI.gif" width="80%" />
 
-  <!-- TITLE OVERLAY (FAKE LAYER) -->
-  <br/>
+</p>
 
-  <b style="font-size:32px; letter-spacing:2px;">
-    ⚙️ REYKEE ⚙️
+<p align="center" style="margin-top:-90px;">
+
+  <!-- NAME ON TOP (FAKE OVERLAY) -->
+  <b style="
+    font-size:32px;
+    color:white;
+    letter-spacing:2px;
+    text-shadow: 0 0 10px rgba(0,255,198,0.8);
+  ">
+⬤ REYKEE ⬤
   </b>
 
 </p>
