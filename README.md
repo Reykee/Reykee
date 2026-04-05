@@ -25,7 +25,7 @@
 <p align="center">
 
   <div style="
-    background-image: url('http://i.imgur.com/4JrtETI.gif');
+    background-image:"http://i.imgur.com/4JrtETI.gif"
     background-size: cover;
     background-position: center;
     padding: 25px 0;
