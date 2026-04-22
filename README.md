@@ -223,6 +223,35 @@ Smart planning and productivity platform helping users organize tasks, track pro
 
 ---
 
+
+---
+
+## 🟢 Promodeck
+
+<p align="center">
+  <img src="http://i.imgur.com/TNEM2oG.gif" width="120"/>
+</p>
+
+<p align="center">
+  Smart Promotion platform aim in delivering accurate promotion, and Advertisiment from automations and high valuable infulencers and creators.
+</p>
+
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://play.google.com/store/apps/details?id=your.app.id">
+    <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://apps.apple.com/tz/app/oddsgram/id6757987570">
+    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+  </a>
+</p>
+
+---
+
 ## 🧠 Tech Stack
 
 ## 👨‍💻 Languages
