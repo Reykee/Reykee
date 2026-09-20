@@ -1,4 +1,3 @@
-
 <!-- PREMIUM BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,50:0a0a0a,100:0f2027&height=200&section=header&text=REGINALD&fontSize=50&fontColor=00FFC6&animation=fadeIn&fontAlignY=35"/>
@@ -6,7 +5,7 @@
 
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFC6&size=24&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Developer;Building+Scalable+Systems;Fintech+%7C+Betting+%7C+AI+Driven+Apps;Consistency+is+Power"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFC6&size=24&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Developer;Building+Scalable+Systems;Fintech+%7C+Betting+%7C+AI+Driven+Systems;Shipping+Real+Products+Fast"/>
 </p>
 
 <!-- VISITOR COUNTER -->
@@ -36,7 +35,7 @@
 
 I’m **Reykee**, originally known as **Reginald Kilawe** — a passionate **Mobile & Web Developer** focused on building real-world, scalable digital products.
 
-My journey into tech has been driven by curiosity, consistency, and a strong desire to turn ideas into working systems. I actively build across **fintech, betting platforms, mobile apps, and web systems**, always prioritizing clean architecture, performance, and user experience.
+My journey into tech has been driven by curiosity, consistency, and a strong desire to turn ideas into working systems. I actively build across **fintech, betting platforms, mobile apps, and web systems**.
 
 I believe in learning by building. That mindset keeps me shipping products, improving my skills, and refining how I design and scale software.
 
@@ -116,7 +115,7 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 </p>
 
 <p align="center">
-  AI-powered forex trading analysis platform delivering accurate insights, market predictions, and performance tracking.and excuting trade on your behave 
+  AI-powered forex trading analysis platform delivering accurate insights, market predictions, and performance tracking and executing trades on your behalf.
 </p>
 
 <p align="center">
@@ -141,7 +140,7 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 </p>
 
 <p align="center">
-  Carsa Go a smart logistic platform that enables user to seamlessly transport anything from anywhere the aim of Casa is to ensure that logistic is easy, smooth and affordable now with Casa go you can move anything anywhere
+  Carsa Go is a smart logistics platform that enables users to seamlessly transport anything from anywhere. The aim is to make logistics easy, smooth, and affordable.
 </p>
 
 <p align="center">
@@ -219,7 +218,7 @@ Smart planning and productivity platform helping users organize tasks, track pro
 </p>
 
 <p align="center">
-  Ai entertainment platform that aims to give the field of AI, a new entertainment field, whereby AI content are similarly shown. This is a Netflix for AI content, expressing all AI content these aims to separate human created content and AI content since the artificial intelligence are taking the scope and are becoming more advice. This is an opportunity for AI content to bring up the new evolution of expressing their creativity and performance. Zoomplay is the beginning of New entertainment for artificial intelligence content.
+  AI entertainment platform that gives the field of AI a new entertainment space, where AI-generated content is showcased in a manner similar to a streaming platform for AI media.
 </p>
 
 <p align="center">
@@ -238,7 +237,6 @@ Smart planning and productivity platform helping users organize tasks, track pro
 
 ---
 
-
 ---
 
 ## 🟢 Promodeck
@@ -248,7 +246,7 @@ Smart planning and productivity platform helping users organize tasks, track pro
 </p>
 
 <p align="center">
-  Smart Promotion platform aim in delivering accurate promotion, and Advertisiment from automations and high valuable infulencers and creators.
+  Smart promotion platform designed to deliver accurate promotion and advertising through automation and high-value influencers and creators.
 </p>
 
 <p align="center">
@@ -381,7 +379,7 @@ access to Reggy's memory and context tools.
 <tr>
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude">
+<img src="https://cdn.simpleicons.org/anthropic?size=40" width="40" height="40" alt="Claude">
 <br><strong>Claude</strong>
 </a>
 <br>
@@ -390,7 +388,7 @@ access to Reggy's memory and context tools.
 
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="ChatGPT">
+<img src="https://cdn.simpleicons.org/openai?size=40" width="40" height="40" alt="ChatGPT">
 <br><strong>ChatGPT</strong>
 </a>
 <br>
@@ -399,7 +397,7 @@ access to Reggy's memory and context tools.
 
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="Codex">
+<img src="https://cdn.simpleicons.org/openai?size=40" width="40" height="40" alt="Codex">
 <br><strong>Codex</strong>
 </a>
 <br>
@@ -408,7 +406,7 @@ access to Reggy's memory and context tools.
 
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/cursor" width="40" height="40" alt="Cursor">
+<img src="https://cdn.simpleicons.org/cursor?size=40" width="40" height="40" alt="Cursor">
 <br><strong>Cursor</strong>
 </a>
 <br>
@@ -417,7 +415,7 @@ access to Reggy's memory and context tools.
 
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/trae" width="40" height="40" alt="TRAE">
+<img src="https://cdn.simpleicons.org/trae?size=40" width="40" height="40" alt="TRAE">
 <br><strong>TRAE</strong>
 </a>
 <br>
@@ -426,7 +424,7 @@ access to Reggy's memory and context tools.
 
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/openclaw" width="40" height="40" alt="OpenClaw">
+<img src="https://cdn.simpleicons.org/openclaw?size=40" width="40" height="40" alt="OpenClaw">
 <br><strong>OpenClaw</strong>
 </a>
 <br>
@@ -437,7 +435,7 @@ access to Reggy's memory and context tools.
 <tr>
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/opencode" width="40" height="40" alt="OpenCode">
+<img src="https://cdn.simpleicons.org/opencode?size=40" width="40" height="40" alt="OpenCode">
 <br><strong>OpenCode</strong>
 </a>
 <br>
@@ -446,7 +444,7 @@ access to Reggy's memory and context tools.
 
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/deepseek" width="40" height="40" alt="DeepSeek">
+<img src="https://cdn.simpleicons.org/deepseek?size=40" width="40" height="40" alt="DeepSeek">
 <br><strong>DeepSeek</strong>
 </a>
 <br>
@@ -455,7 +453,7 @@ access to Reggy's memory and context tools.
 
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain">
+<img src="https://cdn.simpleicons.org/langchain?size=40" width="40" height="40" alt="LangChain">
 <br><strong>LangChain</strong>
 </a>
 <br>
@@ -464,7 +462,7 @@ access to Reggy's memory and context tools.
 
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/google" width="40" height="40" alt="Gemini">
+<img src="https://cdn.simpleicons.org/googlegemini?size=40" width="40" height="40" alt="Gemini">
 <br><strong>Gemini</strong>
 </a>
 <br>
@@ -473,7 +471,7 @@ access to Reggy's memory and context tools.
 
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/githubcopilot" width="40" height="40" alt="GitHub Copilot">
+<img src="https://cdn.simpleicons.org/githubcopilot?size=40" width="40" height="40" alt="GitHub Copilot">
 <br><strong>Copilot</strong>
 </a>
 <br>
@@ -482,8 +480,8 @@ access to Reggy's memory and context tools.
 
 <td align="center" width="16%">
 <a href="#">
-<img src="https://cdn.simpleicons.org/amazonwebservices" width="40" height="40" alt="AI">
-<br><strong>More</strong>
+<img src="https://cdn.simpleicons.org/amazonaws?size=40" width="40" height="40" alt="Cloud">
+<br><strong>Cloud</strong>
 </a>
 <br>
 <sub>Coming Soon</sub>
@@ -509,9 +507,9 @@ through **MCP, APIs, plugins, and connectors**.
 
 ## 🎯 Current Focus
 - 🚀 Building **Planova** , **FXQuantis** , **Oddsgram** ,**KuzaPesa** & **BizMind**
-- 💳 Fintech,betting system integrations,Forex,and Global finacial & business platforms 
+- 💳 Fintech, betting system integrations, forex, and global financial & business platforms
 - 📱 High-performance mobile apps
-- 🌐 High peformance Web sites
+- 🌐 High-performance web sites
 - ⚙️ Scalable backend services
 
 ---
@@ -537,5 +535,3 @@ through **MCP, APIs, plugins, and connectors**.
 <p align="center">
   <img src="http://i.imgur.com/pfKeuoz.gif" width="120%" />
 </p>
-
-
