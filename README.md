@@ -369,6 +369,143 @@ Smart planning and productivity platform helping users organize tasks, track pro
 </p>
 
 ---
+## Use Reggy with your AI coding companion
+
+Connect your AI coding agent to **Reggy** for cross-session memory, project context,
+automatic recall, and session capture.
+
+Choose a native integration where available, or use **MCP** to give your AI agent
+access to Reggy's memory and context tools.
+
+<table>
+<tr>
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/anthropic" width="40" height="40" alt="Claude">
+<br><strong>Claude</strong>
+</a>
+<br>
+<sub>Hooks + MCP</sub>
+</td>
+
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="ChatGPT">
+<br><strong>ChatGPT</strong>
+</a>
+<br>
+<sub>MCP</sub>
+</td>
+
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="Codex">
+<br><strong>Codex</strong>
+</a>
+<br>
+<sub>Hooks + MCP</sub>
+</td>
+
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/cursor" width="40" height="40" alt="Cursor">
+<br><strong>Cursor</strong>
+</a>
+<br>
+<sub>Hooks + MCP</sub>
+</td>
+
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/trae" width="40" height="40" alt="TRAE">
+<br><strong>TRAE</strong>
+</a>
+<br>
+<sub>Hooks + MCP</sub>
+</td>
+
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/openclaw" width="40" height="40" alt="OpenClaw">
+<br><strong>OpenClaw</strong>
+</a>
+<br>
+<sub>Context Engine</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/opencode" width="40" height="40" alt="OpenCode">
+<br><strong>OpenCode</strong>
+</a>
+<br>
+<sub>Plugin + MCP</sub>
+</td>
+
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/deepseek" width="40" height="40" alt="DeepSeek">
+<br><strong>DeepSeek</strong>
+</a>
+<br>
+<sub>MCP</sub>
+</td>
+
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain">
+<br><strong>LangChain</strong>
+</a>
+<br>
+<sub>Tools + Store</sub>
+</td>
+
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/google" width="40" height="40" alt="Gemini">
+<br><strong>Gemini</strong>
+</a>
+<br>
+<sub>MCP</sub>
+</td>
+
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/githubcopilot" width="40" height="40" alt="GitHub Copilot">
+<br><strong>Copilot</strong>
+</a>
+<br>
+<sub>MCP</sub>
+</td>
+
+<td align="center" width="16%">
+<a href="#">
+<img src="https://cdn.simpleicons.org/amazonwebservices" width="40" height="40" alt="AI">
+<br><strong>More</strong>
+</a>
+<br>
+<sub>Coming Soon</sub>
+</td>
+</tr>
+</table>
+
+### General integrations
+
+Reggy can also integrate with other AI agents, developer tools, and applications
+through **MCP, APIs, plugins, and connectors**.
+
+| Integration | Method |
+|---|---|
+| 🧠 AI Agents | MCP |
+| 💻 Coding Agents | MCP + Hooks |
+| 🔌 Developer Tools | API + MCP |
+| 🗂️ Knowledge Bases | Context Store |
+| 🔄 Automation | API |
+| 🧩 Custom Agents | MCP |
+
+> **Reggy gives your AI companion persistent memory and project context across sessions.**
 
 ## 🎯 Current Focus
 - 🚀 Building **Planova** , **FXQuantis** , **Oddsgram** ,**KuzaPesa** & **BizMind**
