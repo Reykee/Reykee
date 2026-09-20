@@ -189,7 +189,7 @@ Smart planning and productivity platform helping users organize tasks, track pro
 ## 🟢 Zoomplay
 
 <p align="center">
-  <img src="http://i.imgur.com/SQqwukm.png" width="120"/>
+  <img src="http://i.imgur.com/FDAitEF.png" width="120"/>
 </p>
 
 <p align="center">
