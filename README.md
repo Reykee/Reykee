@@ -189,7 +189,7 @@ Smart planning and productivity platform helping users organize tasks, track pro
 ## 🟢 Kuza Pesa
 
 <p align="center">
-  <img src="http://i.imgur.com/4NhArQE.png" width="120"/>
+  <img src="http://i.imgur.com/YHguz63.png" width="120"/>
 </p>
 
 <p align="center">
