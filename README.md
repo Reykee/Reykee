@@ -1,11 +1,7 @@
-<!-- ROTATING EARTH (TOP HERO) -->
-<p align="center">
-  <img src="http://i.imgur.com/QvIGoPG.gif" width="100%" />
-</p>
 
 <!-- PREMIUM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,50:0a0a0a,100:0f2027&height=200&section=header&text=REYKEE&fontSize=50&fontColor=00FFC6&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,50:0a0a0a,100:0f2027&height=200&section=header&text=REGINALD&fontSize=50&fontColor=00FFC6&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- TYPING INTRO -->
@@ -19,13 +15,6 @@
 </p>
 
 ---
-
-<!-- PREMIUM HEADER -->
-<!-- PREMIUM NAME WITH NAME GIF -->
-<p align="center">
-
-  <!-- GIF -->
-  <img src="http://i.imgur.com/bht1MXZ.gif" width="100%" style="border-radius:12px;" />
 
   </b>
   
@@ -120,14 +109,14 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 
 ---
 
-## 🟢 FXQuantis
+## 🟢 FXQ
 
 <p align="center">
   <img src="http://i.imgur.com/kVqqmfZ.png" width="120"/>
 </p>
 
 <p align="center">
-  AI-powered forex trading analysis platform delivering accurate insights, market predictions, and performance tracking.
+  AI-powered forex trading analysis platform delivering accurate insights, market predictions, and performance tracking.and excuting trade on your behave 
 </p>
 
 <p align="center">
@@ -197,14 +186,14 @@ Smart planning and productivity platform helping users organize tasks, track pro
 
 ---
 
-## 🟢 BizMind
+## 🟢 Zoomplay
 
 <p align="center">
   <img src="http://i.imgur.com/SQqwukm.png" width="120"/>
 </p>
 
 <p align="center">
- Business intelligence platform delivering smart insights, analytics, and decision-making tools for growth and performance.
+  Ai entertainment platform that aims to give the field of AI, a new entertainment field, whereby AI content are similarly shown. This is a Netflix for AI content, expressing all AI content these aims to separate human created content and AI content since the artificial intelligence are taking the scope and are becoming more advice. This is an opportunity for AI content to bring up the new evolution of expressing their creativity and performance. Zoomplay is the beginning of New entertainment for artificial intelligence content.
 </p>
 
 <p align="center">
@@ -286,10 +275,9 @@ Smart planning and productivity platform helping users organize tasks, track pro
 </p>
 
 ---
-##🔐Cyber Security Tools
 
+## 🔐 Cyber Security Tools
 <p>
-  
 <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge&logo=metasploit" />
 <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=burpsuite" />
