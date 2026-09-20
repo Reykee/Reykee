@@ -134,6 +134,32 @@ I believe in learning by building. That mindset keeps me shipping products, impr
 </p>
 
 ---
+## 🟢 Carsa Go
+
+<p align="center">
+  <img src="http://i.imgur.com/Oh1WA0i.png" width="120"/>
+</p>
+
+<p align="center">
+  Carsa Go a smart logistic platform that enables user to seamlessly transport anything from anywhere the aim of Casa is to ensure that logistic is easy, smooth and affordable now with Casa go you can move anything anywhere
+</p>
+
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://play.google.com/store/apps/details?id=your.app.id">
+    <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://apps.apple.com/tz/app/oddsgram/id6757987570">
+    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+  </a>
+</p>
+
+---
+
 ## 🟢 Planova
 
 <p align="center">
