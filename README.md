@@ -1,113 +1,401 @@
-<table>
-<tr>
-<td align="center" width="16%">
-<a href="#">
-<img src="https://api.iconify.design/logos:anthropic-icon.svg?width=40&height=40" width="40" height="40" alt="Claude">
-<br><strong>Claude</strong>
-</a>
-<br>
-<sub>Hooks + MCP</sub>
-</td>
+<!-- PREMIUM BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,50:0a0a0a,100:0f2027&height=200&section=header&text=REGINALD&fontSize=50&fontColor=00FFC6&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<td align="center" width="16%">
-<a href="#">
-<img src="https://api.iconify.design/logos:openai-icon.svg?width=40&height=40" width="40" height="40" alt="ChatGPT">
-<br><strong>ChatGPT</strong>
-</a>
-<br>
-<sub>MCP</sub>
-</td>
+<!-- TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFC6&size=24&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Developer;Building+Scalable+Systems;Fintech+%7C+Betting+%7C+AI+Driven+Apps;Consistency+is+Power"/>
+</p>
 
-<td align="center" width="16%">
-<a href="#">
-<img src="https://api.iconify.design/logos:openai-icon.svg?width=40&height=40" width="40" height="40" alt="Codex">
-<br><strong>Codex</strong>
-</a>
-<br>
-<sub>Hooks + MCP</sub>
-</td>
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reykee&label=Profile%20Views&color=00ffc6&style=for-the-badge"/>
+</p>
 
-<td align="center" width="16%">
-<a href="#">
-<img src="https://api.iconify.design/logos:cursor-icon.svg?width=40&height=40" width="40" height="40" alt="Cursor">
-<br><strong>Cursor</strong>
-</a>
-<br>
-<sub>Hooks + MCP</sub>
-</td>
+---
 
-<td align="center" width="16%">
-<a href="#">
-<img src="https://api.iconify.design/mdi:robot-outline.svg?color=%2300FFC6&width=40&height=40" width="40" height="40" alt="TRAE">
-<br><strong>TRAE</strong>
-</a>
-<br>
-<sub>Hooks + MCP</sub>
-</td>
+  </b>
+  
+</p>
+<p align="center">
+  <i>Mobile • Web • Systems Developer</i><br/>
+  <b>Building Scalable Digital Products with Precision & Style</b>
+</p>
 
-<td align="center" width="16%">
-<a href="#">
-<img src="https://api.iconify.design/mdi:robot-outline.svg?color=%2300FFC6&width=40&height=40" width="40" height="40" alt="OpenClaw">
-<br><strong>OpenClaw</strong>
-</a>
-<br>
-<sub>Context Engine</sub>
-</td>
-</tr>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-black?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mode-Building%20Relentlessly-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vibe-Premium%20Execution-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-<tr>
-<td align="center" width="16%">
-<a href="#">
-<img src="https://api.iconify.design/mdi:code-braces.svg?color=%2300FFC6&width=40&height=40" width="40" height="40" alt="OpenCode">
-<br><strong>OpenCode</strong>
-</a>
-<br>
-<sub>Plugin + MCP</sub>
-</td>
+---
 
-<td align="center" width="16%">
-<a href="#">
-<img src="https://api.iconify.design/logos:deepseek.svg?width=40&height=40" width="40" height="40" alt="DeepSeek">
-<br><strong>DeepSeek</strong>
-</a>
-<br>
-<sub>MCP</sub>
-</td>
+## 👋 Hi there!
 
-<td align="center" width="16%">
-<a href="#">
-<img src="https://api.iconify.design/logos:langchain-icon.svg?width=40&height=40" width="40" height="40" alt="LangChain">
-<br><strong>LangChain</strong>
-</a>
-<br>
-<sub>Tools + Store</sub>
-</td>
+I’m **Reykee**, originally known as **Reginald Kilawe** — a passionate **Mobile & Web Developer** focused on building real-world, scalable digital products.
 
-<td align="center" width="16%">
-<a href="#">
-<img src="https://api.iconify.design/logos:google-gemini.svg?width=40&height=40" width="40" height="40" alt="Gemini">
-<br><strong>Gemini</strong>
-</a>
-<br>
-<sub>MCP</sub>
-</td>
+My journey into tech has been driven by curiosity, consistency, and a strong desire to turn ideas into working systems. I actively build across **fintech, betting platforms, mobile apps, and web systems**, always prioritizing clean architecture, performance, and user experience.
 
-<td align="center" width="16%">
-<a href="#">
-<img src="https://api.iconify.design/logos:github-copilot.svg?width=40&height=40" width="40" height="40" alt="GitHub Copilot">
-<br><strong>Copilot</strong>
-</a>
-<br>
-<sub>MCP</sub>
-</td>
+I believe in learning by building. That mindset keeps me shipping products, improving my skills, and refining how I design and scale software.
 
-<td align="center" width="16%">
+---
+
+## 🌍 Socials & Contact
+
+<p align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Regnaldkilawe)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Regnaldkilawe)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:reggykilawe@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/its_reykee)
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
 <a href="#">
-<img src="https://api.iconify.design/logos:aws.svg?width=40&height=40" width="40" height="40" alt="Cloud">
-<br><strong>Cloud</strong>
+  <img src="https://img.shields.io/badge/ODDSGRAM-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
 </a>
-<br>
-<sub>Coming Soon</sub>
-</td>
-</tr>
-</table>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/PLANOVA-000000?style=for-the-badge&logo=vercel&logoColor=00FFC6"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/FXQUANTIS-000000?style=for-the-badge&logo=chartdotjs&logoColor=00FFC6"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/KUZAPESA-000000?style=for-the-badge&logo=googlepay&logoColor=00FFC6"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/BIZMIND-000000?style=for-the-badge&logo=brain&logoColor=00FFC6"/>
+</a>
+
+</p>
+
+---
+
+## 🟢 Oddsgram
+
+<p align="center">
+  <img src="http://i.imgur.com/cbicPEa.png" width="120"/>
+</p>
+
+<p align="center">
+  Smart betting analysis platform delivering accurate insights, predictions, and performance tracking.
+</p>
+
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://play.google.com/store/apps/details?id=your.app.id">
+    <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://apps.apple.com/tz/app/oddsgram/id6757987570">
+    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+  </a>
+</p>
+
+---
+
+## 🟢 FXQ
+
+<p align="center">
+  <img src="http://i.imgur.com/kVqqmfZ.png" width="120"/>
+</p>
+
+<p align="center">
+  AI-powered forex trading analysis platform delivering accurate insights, market predictions, and performance tracking and executing trade on your behalf.
+</p>
+
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://play.google.com/store/apps/details?id=your.app.id">
+    <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://apps.apple.com/tz/app/fxquantis/id6759449720">
+    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+  </a>
+</p>
+
+---
+## 🟢 Carsa Go
+
+<p align="center">
+  <img src="http://i.imgur.com/Oh1WA0i.png" width="120"/>
+</p>
+
+<p align="center">
+  Carsa Go a smart logistic platform that enables user to seamlessly transport anything from anywhere the aim of Casa is to ensure that logistic is easy, smooth and affordable now with Casa go you can move anything anywhere.
+</p>
+
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://play.google.com/store/apps/details?id=your.app.id">
+    <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://apps.apple.com/tz/app/oddsgram/id6757987570">
+    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+  </a>
+</p>
+
+---
+
+## 🟢 Planova
+
+<p align="center">
+  <img src="http://i.imgur.com/R6ARQri.png" width="120"/>
+</p>
+
+<p align="center">
+Smart planning and productivity platform helping users organize tasks, track progress, and achieve goals efficiently.
+</p>
+
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://play.google.com/store/apps/details?id=your.app.id">
+    <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://apps.apple.com/tz/app/planova/id6759555358">
+    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+  </a>
+</p>
+
+---
+
+## 🟢 Kuza Pesa
+
+<p align="center">
+  <img src="http://i.imgur.com/YHguz63.png" width="120"/>
+</p>
+
+<p align="center">
+  Financial growth platform empowering users with smart money strategies, investment insights, and income optimization tools.
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+  </a>
+</p>
+
+---
+
+## 🟢 Zoomplay
+
+<p align="center">
+  <img src="http://i.imgur.com/FDAitEF.png" width="120"/>
+</p>
+
+<p align="center">
+  AI entertainment platform that aims to give the field of AI, a new entertainment field, whereby AI content are similarly shown. This is a Netflix for AI content, expressing all AI content these aims to separate human created content and AI content since the artificial intelligence are taking the scope and are becoming more advice. This is an opportunity for AI content to bring up the new evolution of expressing their creativity and performance. Zoomplay is the beginning of New entertainment for artificial intelligence content.
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+  </a>
+</p>
+
+---
+
+---
+
+## 🟢 Promodeck
+
+<p align="center">
+  <img src="http://i.imgur.com/TNEM2oG.gif" width="120"/>
+</p>
+
+<p align="center">
+  Smart Promotion platform aim in delivering accurate promotion, and Advertisement from automations and high valuable influencers and creators.
+</p>
+
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://play.google.com/store/apps/details?id=your.app.id">
+    <img src="https://img.shields.io/badge/Playstore-000000?style=for-the-badge&logo=googleplay&logoColor=00FFC6"/>
+  </a>
+  
+  <a href="https://apps.apple.com/tz/app/oddsgram/id6757987570">
+    <img src="https://img.shields.io/badge/AppStore-000000?style=for-the-badge&logo=appstore&logoColor=00FFC6"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+## 👨‍💻 Languages
+<p>
+<img src="https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart&logoColor=00B4AB"/>
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/PHP-0A0A0A?style=for-the-badge&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=512BD4"/>
+
+<img src="https://skillicons.dev/icons?i=cpp,js,python,bash" />
+
+<!-- ADDED -->
+<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📱 Mobile & Frontend
+<p>
+<img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=02569B"/>
+<img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+<img src="https://img.shields.io/badge/Bootstrap-0A0A0A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+
+<!-- ADDED -->
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
+
+---
+
+## 🔐 Cyber Security Tools
+<p>
+<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge&logo=metasploit" />
+<img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=burpsuite" />
+<img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark" />
+<img src="https://img.shields.io/badge/FFUF-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gobuster-darkgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dirsearch-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Amass-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Subfinder-darkgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hashcat-purple?style=for-the-badge&logo=hashcat" />
+<img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JohnTheRipper-darkred?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Aircrack--ng-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nuclei-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Xray-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Caido-2E7D32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
+<img src="https://img.shields.io/badge/ZAP-0A0A0A?style=for-the-badge&logo=zaproxy" />
+<img src="https://img.shields.io/badge/Maltego-3A3A3A?style=for-the-badge&logo=maltego" />
+
+</p>
+
+---
+
+## 🛠 Backend & APIs
+<p>
+<img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=092E20"/>
+<img src="https://img.shields.io/badge/Django_REST-0A0A0A?style=for-the-badge&logo=django&logoColor=FF1709"/>
+<img src="https://img.shields.io/badge/Laravel-0A0A0A?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+<img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+
+<!-- ADDED -->
+<img src="https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+</p>
+
+---
+
+## 🗄 Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/SQLite-0A0A0A?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
+<img src="https://img.shields.io/badge/MariaDB-0A0A0A?style=for-the-badge&logo=mariadb&logoColor=003545"/>
+</p>
+
+---
+
+## ⚙️ Tools & Design
+<p>
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-0A0A0A?style=for-the-badge&logo=apache&logoColor=D22128"/>
+<img src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Canva-0A0A0A?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+
+<!-- ADDED -->
+<img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Postman-0A0A0A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+- 🚀 Building **Planova** , **FXQuantis** , **Oddsgram** ,**KuzaPesa** & **BizMind**
+- 💳 Fintech,betting system integrations,Forex,and Global financial & business platforms 
+- 📱 High-performance mobile apps
+- 🌐 High performance Web sites
+- ⚙️ Scalable backend services
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reykee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+  <img src="https://streak-stats.demolab.com?user=Reykee&theme=tokyonight&hide_border=true&background=000000"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reykee&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
+</p>
+
+---
+
+<p align="center">
+  <b>⚫ GOD • CONSISTENCY • MOTIVATED MINDSET ⚫</b>
+</p>
+
+<!-- MINDSET VISUAL -->
+<p align="center">
+  <img src="http://i.imgur.com/pfKeuoz.gif" width="120%" />
+</p>
+
