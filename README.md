@@ -263,6 +263,8 @@ Smart planning and productivity platform helping users organize tasks, track pro
 <img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/C%23-0A0A0A?style=for-the-badge&logo=csharp&logoColor=512BD4"/>
 
+<img src="https://skillicons.dev/icons?i=cpp,js,python,bash" />
+
 <!-- ADDED -->
 <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -284,10 +286,10 @@ Smart planning and productivity platform helping users organize tasks, track pro
 </p>
 
 ---
- 🔐 Cyber Security Tools
+##🔐Cyber Security Tools
 
 <p>
-
+  
 <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge&logo=metasploit" />
 <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=burpsuite" />
