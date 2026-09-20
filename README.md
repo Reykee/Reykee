@@ -516,6 +516,221 @@ through **MCP, APIs, plugins, and connectors**.
 
 ---
 
+## Use Reggy with your AI companions
+
+Connect your AI coding agents and AI assistants to **Reggy** for
+cross-session memory, project context, automatic recall, and session capture.
+
+Choose a native integration where available, or use **MCP** to give your
+AI agent access to Reggy's memory and context tools.
+
+<table>
+<tr>
+
+<td align="center" valign="bottom" width="16%">
+<a href="#">
+<img src="docs/images/integrations/logos/claude.svg"
+     width="40"
+     height="40"
+     alt="Claude">
+<br>
+<strong>Claude</strong>
+</a>
+<br>
+<sub>Hooks + MCP</sub>
+</td>
+
+<td align="center" valign="bottom" width="16%">
+<a href="#">
+<img src="docs/images/integrations/logos/chatgpt.svg"
+     width="40"
+     height="40"
+     alt="ChatGPT">
+<br>
+<strong>ChatGPT</strong>
+</a>
+<br>
+<sub>MCP</sub>
+</td>
+
+<td align="center" valign="bottom" width="16%">
+<a href="#">
+<img src="docs/images/integrations/logos/codex.svg"
+     width="40"
+     height="40"
+     alt="Codex">
+<br>
+<strong>Codex</strong>
+</a>
+<br>
+<sub>Hooks + MCP</sub>
+</td>
+
+<td align="center" valign="bottom" width="16%">
+<a href="#">
+<img src="docs/images/integrations/logos/cursor.svg"
+     width="40"
+     height="40"
+     alt="Cursor">
+<br>
+<strong>Cursor</strong>
+</a>
+<br>
+<sub>Hooks + MCP</sub>
+</td>
+
+<td align="center" valign="bottom" width="16%">
+<a href="#">
+<img src="docs/images/integrations/logos/trae.svg"
+     width="40"
+     height="40"
+     alt="TRAE">
+<br>
+<strong>TRAE</strong>
+</a>
+<br>
+<sub>Hooks + MCP</sub>
+</td>
+
+<td align="center" valign="bottom" width="16%">
+<a href="#">
+<img src="docs/images/integrations/logos/openclaw.svg"
+     width="40"
+     height="40"
+     alt="OpenClaw">
+<br>
+<strong>OpenClaw</strong>
+</a>
+<br>
+<sub>Context Engine</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" valign="bottom" width="16%">
+<a href="#">
+<img src="docs/images/integrations/logos/opencode.svg"
+     width="40"
+     height="40"
+     alt="OpenCode">
+<br>
+<strong>OpenCode</strong>
+</a>
+<br>
+<sub>Plugin + MCP</sub>
+</td>
+
+<td align="center" valign="bottom" width="16%">
+<a href="#">
+<img src="docs/images/integrations/logos/deepseek.svg"
+     width="40"
+     height="40"
+     alt="DeepSeek">
+<br>
+<strong>DeepSeek</strong>
+</a>
+<br>
+<sub>MCP</sub>
+</td>
+
+<td align="center" valign="bottom" width="16%">
+<a href="#">
+<img src="docs/images/integrations/logos/langchain.svg"
+     width="40"
+     height="40"
+     alt="LangChain">
+<br>
+<strong>LangChain</strong>
+</a>
+<br>
+<sub>Tools + Store</sub>
+</td>
+
+<td align="center" valign="bottom" width="16%">
+<a href="#">
+<img src="docs/images/integrations/logos/gemini.svg"
+     width="40"
+     height="40"
+     alt="Gemini">
+<br>
+<strong>Gemini</strong>
+</a>
+<br>
+<sub>MCP</sub>
+</td>
+
+<td align="center" valign="bottom" width="16%">
+<a href="#">
+<img src="docs/images/integrations/logos/copilot.svg"
+     width="40"
+     height="40"
+     alt="GitHub Copilot">
+<br>
+<strong>Copilot</strong>
+</a>
+<br>
+<sub>MCP</sub>
+</td>
+
+<td align="center" valign="bottom" width="16%">
+<img src="docs/images/integrations/logos/more.svg"
+     width="40"
+     height="40"
+     alt="More">
+<br>
+<strong>More</strong>
+<br>
+<sub>Coming Soon</sub>
+</td>
+
+</tr>
+</table>
+
+### General integrations
+
+Reggy can also integrate with other AI agents, developer tools, and
+applications through **MCP, APIs, plugins, and connectors**.
+
+<table>
+<tr>
+<th>Integration</th>
+<th>Method</th>
+</tr>
+
+<tr>
+<td>🧠 AI Agents</td>
+<td><strong>MCP</strong></td>
+</tr>
+
+<tr>
+<td>💻 Coding Agents</td>
+<td><strong>MCP + Hooks</strong></td>
+</tr>
+
+<tr>
+<td>🔌 Developer Tools</td>
+<td><strong>API + MCP</strong></td>
+</tr>
+
+<tr>
+<td>🗂️ Knowledge Bases</td>
+<td><strong>Context Store</strong></td>
+</tr>
+
+<tr>
+<td>🔄 Automations</td>
+<td><strong>API</strong></td>
+</tr>
+
+<tr>
+<td>🧩 Custom Agents</td>
+<td><strong>MCP</strong></td>
+</tr>
+
+</table>
+
 # 📊 GitHub Stats
 
 <p align="center">
