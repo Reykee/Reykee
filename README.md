@@ -284,6 +284,34 @@ Smart planning and productivity platform helping users organize tasks, track pro
 </p>
 
 ---
+ 🔐 Cyber Security Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge&logo=metasploit" />
+<img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge&logo=burpsuite" />
+<img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark" />
+<img src="https://img.shields.io/badge/FFUF-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gobuster-darkgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dirsearch-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Amass-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Subfinder-darkgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hashcat-purple?style=for-the-badge&logo=hashcat" />
+<img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JohnTheRipper-darkred?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Aircrack--ng-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nuclei-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Xray-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Caido-2E7D32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
+<img src="https://img.shields.io/badge/ZAP-0A0A0A?style=for-the-badge&logo=zaproxy" />
+<img src="https://img.shields.io/badge/Maltego-3A3A3A?style=for-the-badge&logo=maltego" />
+
+</p>
+
+---
 
 ## 🛠 Backend & APIs
 <p>
@@ -325,6 +353,7 @@ Smart planning and productivity platform helping users organize tasks, track pro
 </p>
 
 ---
+
 
 ## 🎯 Current Focus
 - 🚀 Building **Planova** , **FXQuantis** , **Oddsgram** ,**KuzaPesa** & **BizMind**
